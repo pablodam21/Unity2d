@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f90e36-a2e1-48d9-8581-154964417577" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Character.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Star.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Gold.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Follow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/LAteralMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Pixelplacement/iTween/iTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CharacterLevel2.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/Gold.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Star.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Follow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/LAteralMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/InterfaceLevel1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CharacterLevel2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Character.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1niHPkgz13qZfIbdq62uKYCd13k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f90e36-a2e1-48d9-8581-154964417577" name="Default Changelist" comment="" />
+      <created>1611865971274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611865971274</updated>
+      <workItem from="1611865971647" duration="1891000" />
+      <workItem from="1611941941066" duration="502000" />
+      <workItem from="1612094837896" duration="9470000" />
+      <workItem from="1612277877282" duration="2336000" />
+      <workItem from="1612288349185" duration="133000" />
+      <workItem from="1612289761256" duration="322000" />
+      <workItem from="1612307622744" duration="31000" />
+      <workItem from="1612307870899" duration="3810000" />
+      <workItem from="1612381337855" duration="10792000" />
+      <workItem from="1612454202235" duration="5159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="1584" y="189" key="SettingsEditor" timestamp="1612396525602">
+      <screen x="1280" y="124" width="1600" height="900" />
+    </state>
+    <state x="1584" y="189" key="SettingsEditor/0.0.1280.984/1280.124.1600.900@1280.124.1600.900" timestamp="1612396525602" />
+  </component>
+</project>

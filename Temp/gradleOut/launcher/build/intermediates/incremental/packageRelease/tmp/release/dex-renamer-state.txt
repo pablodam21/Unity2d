@@ -1,0 +1,4 @@
+#Sun Feb 07 17:06:16 CET 2021
+base.0=/home/batoi/Character2D/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
